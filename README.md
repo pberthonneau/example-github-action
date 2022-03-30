@@ -1,6 +1,5 @@
 # Probot & GitHub Action example
 
-test
 
 > This repository is an example of how to create a GitHub Action using Probot
 
